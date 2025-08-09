@@ -1,4 +1,8 @@
+
+<img width="1901" height="1015" alt="quiz" src="https://github.com/user-attachments/assets/8a8de481-9dbb-4f1c-ab5f-664d2102a8cf" />
+
 # React Quiz Projesi
+
 
 Bu proje, React, TypeScript, Vite ve Tailwind CSS teknolojileri kullanılarak geliştirilmiş dinamik ve hızlı bir quiz uygulamasıdır.
 
